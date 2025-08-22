@@ -13,22 +13,13 @@ This portfolio website demonstrates proficiency in HTML and CSS, featuring a res
 - about.html: Bio, personal photo, education/work timeline.
 - projects.html: Three project cards with descriptions.
 
-4. Screenshots
-[Insert screenshots of each page on desktop, tablet, and mobile views.]
-
-5. User Experience
+4. User Experience
 - Clean, semantic code for accessibility and maintainability.
 - Visual hierarchy and color contrast for readability.
 - Smooth transitions and interactive elements enhance engagement.
 
-6. Submission Links
-- GitHub repository: [Insert link]
-- GitHub Pages live site: [Insert link]
-
-7. How to Run
+5. How to Run
 Open index.html in a browser or deploy to GitHub Pages for live preview.
 
-8. Credits
-Developed by [Your Name].
-
-Note: Replace placeholders with actual links and screenshots before submission.
+6. Credits
+Developed by Muhammad Zeb.
